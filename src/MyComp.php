@@ -13,6 +13,6 @@ class MyComp
 {
     public static function test()
     {
-        echo 'MyComp testing';
+        echo 'MyComp testing' . "\n";
     }
 }

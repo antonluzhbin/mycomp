@@ -5,5 +5,8 @@
   "license": "MIT",
   "autoload": {
     "classmap": [ "./src" ]
+  },
+  "require": {
+    "composer/installers": "~1.0"
   }
 }
